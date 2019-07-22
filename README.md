@@ -4,8 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  gatsby-theme-cooper-hewitt
+  gatsby-starter-theme-cooper-hewitt
 </h1>
+
+Quickly create a site for the blog theme `gatsby-starter-theme-cooper-hewitt` (a child theme of [gatsby-theme-blog](https://www.gatsbyjs.org/packages/gatsby-theme-blog/?=gatsby-theme-blog)).
 
 ## Create a site from the starter
 ```shell
